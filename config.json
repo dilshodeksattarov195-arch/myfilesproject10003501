@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsderify",
+        "uuid": 28995282,
+        "checksum": "rekyie"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
